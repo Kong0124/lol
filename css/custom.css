@@ -32,3 +32,7 @@ url("../fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wo
 .custom-form button {
   background: #000000 !important;
 }
+
+.custom-logo {
+  max-height: 22px;
+}
